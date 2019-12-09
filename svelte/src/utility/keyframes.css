@@ -1,0 +1,17 @@
+@-webkit-keyframes moveIndeterminate {
+        from {
+            background-position: 200% 0;
+        }
+        to {
+            background-position: -200% 0;
+        }
+    }
+
+    @keyframes moveIndeterminate {
+        from {
+            background-position: 200% 0;
+        }
+        to {
+            background-position: -200% 0;
+        }
+    }
