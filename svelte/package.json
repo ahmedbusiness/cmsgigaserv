@@ -19,7 +19,7 @@
     "compressorjs": "^1.0.5",
     "electron": "^6.0.7",
     "firebase": "^6.6.1",
-    "firebase-admin": "^8.4.0",
+    "firebase-admin": "^11.4.1",
     "rollup-plugin-node-globals": "^1.4.0",
     "rollup-plugin-postcss": "^2.0.3",
     "sirv-cli": "^0.4.4",
